@@ -1,0 +1,415 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  cd D
+    5  cd Desktop/
+    6  ls
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd Library/
+   11  ls
+   12  ls
+   13  pwd
+   14  cd ..
+   15  ls
+   16  cd Desktop/
+   17  ls
+   18  cd 
+   19  ls
+   20  pwd
+   21  ls
+   22  cd Desktop/
+   23  ls
+   24  mv test HaiQing_D620D_2140504副本 HaiQing_D620D_2140520
+   25  mv  HaiQing_D620D_2140504副本 HaiQing_D620D_2140520
+   26  ls
+   27  cd HaiQing_D620D_2140520/
+   28  ls
+   29  cd src/
+   30  make
+   31  pwd
+   32  make
+   33  pwd
+   34  vi Makefile 
+   35  make
+   36  make
+   37  ls
+   38  ls
+   39  vi Main.c 
+   40  vi main.c
+   41  pwd
+   42  pwd
+   43  ls
+   44  gedit Main.c 
+   45  ls
+   46  ls
+   47  vi Main.c 
+   48  man num
+   49  show 
+   50  cd 
+   51  ls
+   52  pwd
+   53  ls
+   54  ls
+   55  cd Desktop/
+   56  ls
+   57  cd HaiQing_D620D_2140520/
+   58  ls
+   59  cd src/
+   60  ls
+   61  make
+   62  ls
+   63  ff
+   64  ls
+   65  cd ..
+   66  ls
+   67  ls
+   68  cd ..
+   69  ls
+   70  ls
+   71  ls
+   72  cd ..
+   73  ls
+   74  mv Work
+   75  mkdir Work
+   76  cd Work/
+   77  ls
+   78  ls
+   79  vi test.c
+   80  gcc test.c 
+   81  ls
+   82  ./a.out 
+   83  pwd
+   84  ff
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd Desktop/
+   89  ls
+   90  mv arm-cross.tar.gz ../Work/
+   91  ls
+   92  cd ../Work/
+   93  ls
+   94  ls
+   95  cp /usr/
+   96  cd /usr/
+   97  ;s
+   98  ls
+   99  mkdir local
+  100  cd loc
+  101  cd local
+  102  ls
+  103  ls
+  104  mkdir local
+  105  su
+  106  su
+  107  ls
+  108  su
+  109  sudo
+  110  ls
+  111  sudo password
+  112  sudo passward
+  113  su password
+  114  su passward
+  115  s
+  116  sudo -s
+  117  ls
+  118  cd /usr/
+  119  ls
+  120  mkdir local/arm
+  121  mkdir local
+  122  ls
+  123  cd local/
+  124  ls
+  125  mkdir arm
+  126  ls
+  127  cd arm/
+  128  ls
+  129  ls
+  130  cp /Users/liuyongxiang/Work/arm-cross.tar.gz ./
+  131  ls
+  132  tar -zxvf arm-cross.tar.gz 
+  133  ls
+  134  pwd
+  135  ls
+  136  cd 2.95.3/
+  137  ls
+  138  cd ..
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd arm/
+  143  ls
+  144  ls
+  145  ls
+  146  pwd
+  147  ls
+  148  ls
+  149  ls
+  150  pwd
+  151  pwd
+  152  pwd
+  153  ff
+  154  ls
+  155  cd /Users/liuyongxiang/
+  156  ls
+  157  cd Work/
+  158  ls
+  159  ls
+  160  cd ..
+  161  ls
+  162  cd Desktop/
+  163  ls
+  164  cd HaiQing_D620D_2140520/
+  165  ls
+  166  cd src/
+  167  ls
+  168  vi Makefile 
+  169  make
+  170  ls
+  171  make
+  172  vi Makefile 
+  173  make
+  174  make
+  175  ls
+  176  ls
+  177  cd ..
+  178  ls
+  179  ls
+  180  cd src/
+  181  ls
+  182  pwd
+  183  history
+  184  history > log
+  185  vi lo
+  186  ls
+  187  vi log 
+  188  vi Makefile 
+  189  echo $HOME
+  190  set
+  191  set >log
+  192  vi log
+  193   vi /etc/profile
+  194   vi /etc/profile
+  195  su -s
+  196  su -
+  197  ls
+  198  cd 
+  199  pwd
+  200  top
+  201  mount
+  202  cd /
+  203  ls
+  204  ll
+  205  ll -h
+  206  ls
+  207  ls -l
+  208  cd System/
+  209  ll
+  210  ls
+  211  reboot 
+  212  ls
+  213  exit
+  214  ls
+  215  ls
+  216  cd /usr/
+  217  ls
+  218  cd ar
+  219  cd local/
+  220  ls
+  221  cd arm/
+  222  ls
+  223  pwd
+  224  ff
+  225  ls
+  226  cd rm -rf arm-cross.tar.gz 
+  227  ls
+  228  rm -rf arm-cross.tar.gz 
+  229  ls
+  230  su
+  231  su
+  232  sudo
+  233  ls
+  234  cd 2.95.3/
+  235  ls
+  236  cd arm-linux/
+  237  ls
+  238  cd bin/
+  239  ls
+  240  cd..
+  241  cd ..
+  242  ls
+  243  cd ..
+  244  ls
+  245  ls
+  246  cd ..
+  247  ls
+  248  ls
+  249  pwd
+  250  cd 
+  251  cd home
+  252  cd /root
+  253  cd root
+  254  pwd
+  255  cd ..
+  256  ls
+  257  cd ..
+  258  ls
+  259  cd home/
+  260  ls
+  261  cd /Users/
+  262  s
+  263  ls
+  264  cd Shared/
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd /usr/local/
+  269  ls
+  270  cd arm/
+  271  ls
+  272  cd ..
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd local/
+  277  ls
+  278  rm -rf arm 
+  279  ls
+  280  ls
+  281  cd arm/
+  282  ls
+  283  cd ..
+  284  ls
+  285  rm -rf arm/
+  286  sudo
+  287  disk
+  288  df
+  289  df
+  290  disk a
+  291  git
+  292  pwd
+  293  ls
+  294  pwd
+  295  cd Desktop/
+  296  ls
+  297  cd TestGamr/
+  298  ls
+  299  cd TestGamr
+  300  ls
+  301  git init
+  302  git staus
+  303  git status
+  304  git add .
+  305  git status
+  306  git commit
+  307  git config --global user.email "yuzhongxiaosan5@163.com"
+  308  git config --global user.name "Erma"
+  309  git commit
+  310  git status
+  311  git commit
+  312  ls
+  313  s
+  314  git status
+  315  git k
+  316  gitk
+  317  git log
+  318  ls
+  319  vi AppDelegate.h
+  320  touch define.h
+  321  git commit
+  322  git add define.h 
+  323  git status
+  324  vi define.h
+  325  git status
+  326  git diff
+  327  git commit
+  328  git log
+  329  git status
+  330  git diff
+  331  git add
+  332  git add define.h 
+  333  git status
+  334  vi define.h 
+  335  git status
+  336  git diff
+  337  git check
+  338  git checkout
+  339  git checkout define.h 
+  340  git status
+  341  git diff
+  342  vi define.h 
+  343  git add
+  344  git add define.h 
+  345  git commit
+  346  vi define.h 
+  347  vi ~/.viminfo 
+  348  vi ~/.vimrc
+  349  vi define.h 
+  350  vi define.h 
+  351  git status
+  352  git add define.h 
+  353  git status
+  354  git commit
+  355  ls
+  356  git status
+  357  git log
+  358  git status
+  359  git branch
+  360  git log
+  361  git checkout -b tree db538c5ddcf88c3a53327d24840776689b909f72
+  362  tree
+  363  vi define.h 
+  364  git checkout head
+  365  git checkout Head
+  366  git checkout HEAD
+  367  ls
+  368  vi define.h 
+  369  git branch -a
+  370  git checkout master
+  371  git branch -a
+  372  vi define.h 
+  373  git checkout master
+  374  git checkout tree
+  375  vi define.h 
+  376  ls
+  377  vi define.h 
+  378  git checkout master
+  379  git branch -a
+  380  vi define.h 
+  381  git status
+  382  git hub
+  383  pwd
+  384  cd ..
+  385  pwd
+  386  git ../
+  387  cd ..
+  388  ls
+  389  mkdir Lyx
+  390  cd Lyx/
+  391  ls
+  392  git clone 
+  393  git clone https://github.com/Erma0502/Project.git
+  394  ls
+  395  cd Project/
+  396  ls
+  397  cat README.md 
+  398  vi README.md 
+  399  git add
+  400  git add Project
+  401  pwd
+  402  git add Project
+  403  pwd
+  404  ls
+  405  git status
+  406  pwd
+  407  git add README.md 
+  408  git commit
+  409  git status
+  410  git branch
+  411  git log
+  412  git push 
+  413  git history
+  414  history
+  415  history > git_commit
